@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 //
-//        Car car = new Car();
+        Car car1 = new Car();
 //        System.out.println();
 //
 //        car.start();
@@ -17,6 +17,10 @@ public class Main {
 
         NiceCar car = new NiceCar();
         NiceCar car2 = new NiceCar();
+
+
+
+
 
 
 
