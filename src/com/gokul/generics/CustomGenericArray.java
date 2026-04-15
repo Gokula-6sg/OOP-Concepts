@@ -9,7 +9,6 @@ public class CustomGenericArray <T>{
     private int size = 0;
 
 
-
     public CustomGenericArray(){
         this.data = new Object[DEFAULT_SIZE];
     }

@@ -3,6 +3,11 @@ package com.gokul.generics;
 import java.util.ArrayList;
 import java.util.Arrays;
 
+// This is Custom DataStructure for Hands on practice  Assignement 12, 13
+// 1. Custom Array ds
+// 2. Linkedlist ds
+
+
 public class CustomArrayList {
 
     private int[] data;
@@ -37,6 +42,7 @@ public class CustomArrayList {
     public int size(){
         return size;
     }
+
 
     public void set(int index, int value){
         data[index] = value;
@@ -74,3 +80,5 @@ public class CustomArrayList {
 
     }
 }
+
+
